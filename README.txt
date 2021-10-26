@@ -10,6 +10,6 @@ https://github.com/frankxsu11ivan/Cryptocurrencies/blob/main/picts/D1.png
 Deliverable 2: Reducing Data Dimensions Using PCA Deliverable 
 D2 pca https://github.com/frankxsu11ivan/Cryptocurrencies/blob/main/picts/D2.png
 Deliverable 3: Clustering Cryptocurrencies Using K-means
-D3
+D3 https://github.com/frankxsu11ivan/Cryptocurrencies/blob/main/picts/D3.png
 Deliverable 4: Visualizing Cryptocurrencies Results
 D4
