@@ -6,7 +6,7 @@ the algorithms are ran unsupervised through jupyter notebook.
 Submitted are the following:
 
 Deliverable 1: Preprocessing the Data for PCA
-D1
+https://github.com/frankxsu11ivan/Cryptocurrencies/blob/main/picts/D1.png
 Deliverable 2: Reducing Data Dimensions Using PCA Deliverable 
 D2 pca
 Deliverable 3: Clustering Cryptocurrencies Using K-means
